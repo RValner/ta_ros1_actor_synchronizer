@@ -1,0 +1,5 @@
+{
+    "name": "TaRos1ActorSynchronizer",
+    "package_name": "ta_ros1_actor_synchronizer",
+    "effect": "synchronous"
+}

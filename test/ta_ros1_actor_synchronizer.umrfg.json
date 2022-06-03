@@ -1,0 +1,13 @@
+{
+    "graph_name": "ta_ros1_actor_synchronizer",
+    "graph_description": "",
+    "graph_state": 1,
+    "umrf_actions": [
+        {
+            "name": "TaRos1ActorSynchronizer",
+            "package_name": "ta_ros1_actor_synchronizer",
+            "id": 0,
+            "effect": "synchronous"
+        }
+    ]
+}
